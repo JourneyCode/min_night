@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "JourneyCode"
-description = "An easy reading Hugo blog with night-mode."
+description = "Hot garbage fire of epic proportions."
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -12,8 +12,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "An easy reading Hugo blog with night-mode."
-    logo = "favicon/android-chrome-192x192.png"
+    description = "Hot garbage fire of epic proportions."
+    logo = "favicon/owl.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#386890" # dark colors do best
@@ -59,6 +59,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/priestlyharp/"
-    name = "fab fa-twitter"
+    url = "https://facebook.com/james.lee.228/"
+    name = "fab fa-facebook"
     weight = 3
