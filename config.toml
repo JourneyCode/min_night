@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "JourneyCode"
+title = ""
 description = "Hot garbage fire of epic proportions."
 theme = "min_night"
 disqusShortname = ""
