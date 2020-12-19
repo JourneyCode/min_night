@@ -1,9 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = ""
-description = "ASDFKAJSDFL AKJSF
-ASDFASDFASDF
-ASDFASDF."
+description = "Hot garbage fire of epic proportions."
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -14,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "Journey Code"
+    description = "Sombr"
     logo = "favicon/owl.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
