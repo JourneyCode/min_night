@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static\\img"
+    "\\archetypes",
+    "\\content",
+    "\\content\\Classes",
+    "\\content\\post",
+    "\\content\\project",
+    "\\static\\css",
+    "\\themes",
+    "\\themes\\min_night",
+    "\\themes\\min_night\\layouts"
   ],
-  "SelectedNode": "\\config.toml",
+  "SelectedNode": "\\themes\\min_night\\layouts\\index.html",
   "PreviewInSolutionExplorer": false
 }
