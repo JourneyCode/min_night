@@ -4,13 +4,11 @@
     "\\archetypes",
     "\\content",
     "\\content\\Classes",
+    "\\content\\Classes\\Calculus 1",
     "\\content\\post",
     "\\content\\project",
-    "\\static\\css",
-    "\\themes",
-    "\\themes\\min_night",
-    "\\themes\\min_night\\layouts"
+    "\\themes"
   ],
-  "SelectedNode": "\\themes\\min_night\\layouts\\index.html",
+  "SelectedNode": "\\content\\Classes\\Calculus 1\\Chapter 1.md",
   "PreviewInSolutionExplorer": false
 }
